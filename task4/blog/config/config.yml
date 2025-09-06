@@ -1,0 +1,13 @@
+database:
+ dsn: root:Zk12345678@tcp(127.0.0.1:3306)/goblogdb?charset=utf8mb4&parseTime=True&loc=Local
+MaxIdleConns: 10
+MaxOpenConns: 100
+
+app:
+ name: 
+ port: :3000
+
+
+jwt:
+  SecretKey: "secret"
+  ExpireHours: 24    
