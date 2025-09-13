@@ -1,0 +1,19 @@
+{
+  "name": "我的第一个NFT",
+  "description": "第一个NFT",
+  "image": "https://ipfs.io/ipfs/bafybeiaop3je2vqqhkaydudplglo4chc3b7pty2az3uft4f7s4r2lbbs4a",
+  "attributes": [
+    {
+      "trait_type": "房产证",
+      "value": "上海"
+    },
+    {
+      "trait_type": "房型",
+      "value": "别墅"
+    },
+     {
+      "trait_type": "单价",
+      "value": "10w"
+    }
+  ]
+}
